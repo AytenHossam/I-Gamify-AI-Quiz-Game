@@ -1,0 +1,8 @@
+Flask
+python-docx
+PyMuPDF
+pdf2image
+pytesseract
+langdetect
+requests
+flask-cors
