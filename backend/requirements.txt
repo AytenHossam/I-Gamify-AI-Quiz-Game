@@ -1,0 +1,13 @@
+flask
+requests
+langdetect
+langchain
+openai
+unstructured
+PyPDF2
+tiktoken
+langchain-community
+python-docx
+flask-cors
+
+
